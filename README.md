@@ -1,1 +1,0 @@
-# Calculadora-Valor-Intr-nseco
